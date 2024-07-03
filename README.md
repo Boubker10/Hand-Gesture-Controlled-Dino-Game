@@ -26,7 +26,6 @@ This project demonstrates a real-time hand gesture recognition system to control
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game.git
-    cd hand-gesture-controlled-dino-game
     ```
 
 2. **Create and Activate Virtual Environment**:
