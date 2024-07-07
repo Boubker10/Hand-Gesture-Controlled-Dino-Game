@@ -4,6 +4,12 @@
 
 This project demonstrates a real-time hand gesture recognition system to control the Dino game in Google Chrome using a webcam, OpenCV for computer vision tasks, and pyautogui for simulating keyboard actions. The main objective is to detect hand movements and gestures to make the Dino jump, providing an engaging and interactive way to play the game.
 
+
+
+https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game/assets/116897761/0eb3e948-990e-405b-a63e-6b6ea15760e5
+
+
+
 ## Features
 
 - **Real-time Hand Detection**: Utilizes OpenCV to capture video from the webcam and process the frames to detect hand gestures.
