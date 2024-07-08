@@ -16,9 +16,6 @@ https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game/assets/116897761/
 ## Features
 
 - **Real-time Hand Detection**: Utilizes OpenCV to capture video from the webcam and process the frames to detect hand gestures.
-- **Skin Color Segmentation**: Applies color segmentation in the HSV color space to isolate and detect hands based on skin color.
-- **Contour Detection**: Identifies and analyzes contours to find the hand shape and gestures.
-- **Convex Hull and Defects Analysis**: Uses convex hulls and convexity defects to determine the number of fingers shown, allowing for gesture recognition.
 - **Simulated Keyboard Input**: Employs pyautogui to simulate keyboard inputs, enabling the Dino to jump when a specific gesture is detected.
 - **Real-time Feedback**: Displays processed video frames with detected contours and convex hulls, providing visual feedback of the detection process.
 
