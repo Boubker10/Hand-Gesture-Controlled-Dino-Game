@@ -50,7 +50,7 @@ https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game/assets/116897761/
 
 4. **Run the Application**:
     ```bash
-    python main.py
+    python dino.py
     ```
 
 ## Dependencies
