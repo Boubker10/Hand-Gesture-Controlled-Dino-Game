@@ -6,6 +6,9 @@ This project demonstrates a real-time hand gesture recognition system to control
 
 
 
+![capture](https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game/assets/116897761/5c91ca92-2a73-40b3-a933-9d6cd60f7426)
+
+
 https://github.com/Boubker10/Hand-Gesture-Controlled-Dino-Game/assets/116897761/0eb3e948-990e-405b-a63e-6b6ea15760e5
 
 
